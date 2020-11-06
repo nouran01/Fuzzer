@@ -1,0 +1,12 @@
+admin
+login
+reset
+search
+about
+users
+user
+help
+settings
+password
+index
+security
